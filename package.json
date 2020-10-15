@@ -1,7 +1,7 @@
 {
   "name": "larabbs",
   "version": "0.0.2",
-  "description": "study project",
+  "description": "A WePY project",
   "main": "weapp/app.js",
   "scripts": {
     "dev": "./node_modules/.bin/wepy build --watch",
@@ -13,7 +13,7 @@
     "module-a": false,
     "./src/components/list": "./src/components/wepy-list.wpy"
   },
-  "author": "xinxinzhang <522618640@qq.com>",
+  "author": "sady <522618640@qq.com>",
   "license": "MIT",
   "dependencies": {
     "@wepy/x": "^2.0.2",
