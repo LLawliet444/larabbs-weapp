@@ -1,0 +1,13 @@
+{
+  "description": "study project",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wx1a7ec5cc4cd0402a",
+  "projectname": "larabbs",
+  "miniprogramRoot": "./weapp"
+}
